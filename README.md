@@ -1,1 +1,1 @@
-# teket
+# tickety-magic
